@@ -1,8 +1,10 @@
 # 🚀 90DaysOfDevOps
 ### Learn • Build • Practice • Become Job-Ready
-
+# I would love to take this challenge 
+# Since 8th September 2026 I am very rigorously practising my DevOps Wor# I would love to take this challenge 
+# Since 8th September 2026 I am very rigorously practising my DevOps Workk
 Welcome to **90DaysOfDevOps**, a structured and hands-on DevOps challenge by **TrainWithShubham**.
-
+Thanks Shubham Sir for your valuable inputs on various topics of DevOps 
 This repository is designed to help you **build real DevOps skills step by step in 90 days** — not by watching endless videos, but by **doing daily tasks**, building projects, and thinking like a **production-ready DevOps engineer**.
 
 This is not a theory-heavy course.  
